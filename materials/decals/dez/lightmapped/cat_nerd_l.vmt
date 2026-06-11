@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/cat_nerd"
+	"$decal" 1
+	"$decalscale" 1.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

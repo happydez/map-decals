@@ -1,0 +1,17 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/makaka"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 1.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"30"
+        		}
+   	 }
+}
+

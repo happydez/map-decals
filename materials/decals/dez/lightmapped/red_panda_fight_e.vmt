@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/red_panda_fight"
+	"$decal" 1
+	"$decalscale" 4.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"20"
+        		}
+   	 }
+}

@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/hamster_run"
+	"$decal" 1
+	"$decalscale" 0.25
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

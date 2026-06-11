@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/salto_v_grob"
+	"$decal" 1
+	"$decalscale" 0.25
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

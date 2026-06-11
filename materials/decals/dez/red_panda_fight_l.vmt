@@ -1,0 +1,15 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/red_panda_fight"
+	"$decal" 1
+	"$decalscale" 1.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"20"
+        		}
+   	 }
+}

@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/red_panda_sway"
+	"$decal" 1
+	"$decalscale" 1.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

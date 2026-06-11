@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/red_panda_carrot"
+	"$decal" 1
+	"$decalscale" 0.25
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

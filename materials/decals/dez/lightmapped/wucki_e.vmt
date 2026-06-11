@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/wucki"
+	"$decal" 1
+	"$decalscale" 4.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"60"
+        		}
+   	 }
+}
+

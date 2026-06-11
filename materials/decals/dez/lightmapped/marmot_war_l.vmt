@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/marmot_war"
+	"$decal" 1
+	"$decalscale" 1.0
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}

@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decals/dez/miku"
+	"$decal" 1
+	"$translucent" 1
+	"$decalscale" 0.25
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"30"
+        		}
+   	 }
+}
+

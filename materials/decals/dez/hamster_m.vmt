@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/hamster"
+	"$decal" 1
+	"$decalscale" 0.50
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+

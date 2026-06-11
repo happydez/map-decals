@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	"$basetexture" "decals/dez/cat_korm"
+	"$decal" 1
+	"$decalscale" 0.50
+	"Proxies"
+    	{
+        		"AnimatedTexture"
+        		{
+        		    "animatedTextureVar" 			"$basetexture"
+            		    "animatedTextureFrameNumVar" 		"$frame"
+           	                    "animatedTextureFrameRate" 		"40"
+        		}
+   	 }
+}
+
